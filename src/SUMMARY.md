@@ -84,6 +84,7 @@
 - [Creating a Library]()
     - [Cargo]()
     - [Crates.io]()
+    - [Organizing your Public API](chYY-YY-public-api.md)
     - [Documentation](chYY-YY-documentation.md)
     - [Workspaces and Multiple Related Crates](chYY-YY-workspaces.md)
 
